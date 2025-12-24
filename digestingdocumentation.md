@@ -64,7 +64,19 @@ Correct usage! Your flag: pwn.college{kcHd0RDzQ7P7EjfAuUfqu5F54DU.QX1EDO0wSNyUDM
 
 **Commands used**: 
 
-couldnt do it.
+```hacker@man~searching-for-manuals:~$ man man```
+
+```hacker@man~searching-for-manuals:~$ man -k challenge```
+
+scndjixhdt (1)       - print the flag!
+
+```hacker@man~searching-for-manuals:~$ man scndjixhdt```
+
+```hacker@man~searching-for-manuals:~$ /challenge/challenge --scndji 620```
+
+Correct usage! Your flag: pwn.college{scndjixhQIdt6WogZENSxWfyjTI.QX2EDO0wSNyUDM1EzW}
+
+**Flag**: pwn.college{scndjixhQIdt6WogZENSxWfyjTI.QX2EDO0wSNyUDM1EzW}
 
 ## 6. helpful programs:
 
